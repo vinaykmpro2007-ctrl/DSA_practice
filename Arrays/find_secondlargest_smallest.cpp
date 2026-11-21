@@ -1,3 +1,6 @@
+//The time complexity is : O(N) at optimal and O(2N)at better and O(NlogN) at bruteforce
+// optimal solution
+
 #include<bits/stdc++.h>
 using namespace std;
 int slargest(int a[],int n){
