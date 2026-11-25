@@ -14,7 +14,7 @@ void Leftrotateone(int a[],int n){
 int main(){
     int n;
     cout<<"Enter the size of array:";
-    cin>>n;
+    cin>>n;c
     int a[n];
     cout<<"Enter the elments of array:";
     for(int i=0;i<n;i++)cin>>a[i];
